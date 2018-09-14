@@ -1,4 +1,4 @@
-# Cse final project - a simulation on the traffic light control
+# A simulation on the traffic light control
 
 run it in the terminal under the path to C_program:
 
