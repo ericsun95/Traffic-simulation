@@ -13,4 +13,3 @@ change the path to the place where you store the txt, change the last three para
 
     >> running;
 
-# 6010
